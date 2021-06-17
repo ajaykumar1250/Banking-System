@@ -10,17 +10,17 @@ body{
 
 /* navbar css starts here  */
 .bg-light{
-    background-color: #f2e9e4!important;
+    background-color: black;
 }
 
 .navbar-brand{
     font-family: 'Sansita Swashed', cursive;
     font-size: 1.5rem;
-    color: #5f6368!important;
+    color: black;
 }
 
 .nav-link{
-    color: #5f6368!important;
+    color: black;
     font-family: 'Noto Sans JP', sans-serif;
 }
 
